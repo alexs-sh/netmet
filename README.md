@@ -37,7 +37,9 @@ payload:256
 ```
 
 172.29.21.18:8888 - IP address and port of test server
+
 100 - number of cycles
+
 256 - test payload size
 
 
